@@ -1,3 +1,5 @@
+![Github Banner](./assets/github/banner.png)
+
 # Mil — Into The Deep
 
 A static portfolio site for a marine biology student and scientific illustrator: gallery, research and internships, skills, and contact.
